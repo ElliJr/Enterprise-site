@@ -448,7 +448,9 @@ body.light .footer a {
   .nav {
     display: none;
   }
-
+  .icon{
+    width: 30px;
+  }
   .nav2 {
     display: block;
   }
